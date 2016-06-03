@@ -346,6 +346,11 @@ nav li:first-child {
 .latest-projects .row {
 }
 
+.container-full {
+		width: 1440px;
+		margin: 0 auto;
+}
+
 .latest-projects .col-3 {
 	float: left;
 	width: 25%;
